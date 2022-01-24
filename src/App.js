@@ -7,11 +7,8 @@ import RecommendedVideos from './RecommendedVideos';
 function App() {
   return (
     <div className="app">
-      {/*Header*/}
       <Header />
-
-      {/*Sidebar*/}
-      <div className='"app__page'>
+      <div className="app__page">
         <Sidebar />
         <RecommendedVideos />
       </div>
