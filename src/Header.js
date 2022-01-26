@@ -30,7 +30,7 @@ function Header() {
         <NotificationsIcon className="header__icon" />
         <Avatar
           alt="Remmy Sharp"
-          src="https://avatars.githubusercontent.com/u/84670853?v=4"
+          src="https://avatars.githubusercontent.com/u/84670853?s=96&v=4"
         />
       </div>
     </div>

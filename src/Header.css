@@ -17,7 +17,7 @@
 
 .header__input {
   display: flex;
-  align-items: center;
+  align-items: fit;
   width: 40%;
   border: 1px solid lightgray;
 }
