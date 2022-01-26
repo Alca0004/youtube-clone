@@ -11,7 +11,6 @@ import ThumbUpAltOutlinedIcon from '@mui/icons-material/ThumbUpOffAltOutlined';
 import ExpandMoreOutlinedIcon from '@mui/icons-material/ExpandMoreOutlined';
 
 import './Sidebar.css';
-import { OndemandVideo } from '@mui/icons-material';
 
 function Sidebar() {
   return (
