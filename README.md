@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f0f5605-d1b0-4afa-b229-da03a1b2ab5f/deploy-status)](https://app.netlify.com/sites/dreamy-panini-48f8b5/deploys)
 
-This is a basic Netflix clone that mocks the UI of the main explore page.
+This is a basic Youtube clone that mocks the UI of the main explore page.
 
 # Getting Started with Create React App
 
