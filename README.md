@@ -1,4 +1,4 @@
-<h1 dir="auto"><a id="user-content-netflix-clone" class="anchor" aria-hidden="true" href="#netflix-clone"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a> Youtube Clone 📺 </h1>
+<h1 dir="auto"><a id="user-content-netflix-clone" class="anchor" aria-hidden="true" href="#netflix-clone"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a> 🔥Youtube Clone 📺 </h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f0f5605-d1b0-4afa-b229-da03a1b2ab5f/deploy-status)](https://dreamy-panini-48f8b5.netlify.app/)
 
